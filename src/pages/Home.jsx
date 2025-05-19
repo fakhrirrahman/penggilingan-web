@@ -8,6 +8,7 @@ import VisionSection from "../components/VisionSection";
 import TestimonialsSection from "../components/TestimonialsSection";
 import ContactSection from "../components/ContactSection";
 import Footer from "../components/Footer";
+import LoginForm from "../components/LoginSection";
 
 export default function Home() {
   return (
